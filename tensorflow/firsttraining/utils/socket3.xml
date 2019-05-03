@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>power-socket-png-5a3a0cb1c83f24.94031402151375377782022315.jpg</filename>
+	<path>/Users/ronen/Downloads/labelImg-master/firsttraining/images/power-socket-png-5a3a0cb1c83f24.94031402151375377782022315.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>660</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>socket</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>124</xmin>
+			<ymin>1</ymin>
+			<xmax>781</xmax>
+			<ymax>651</ymax>
+		</bndbox>
+	</object>
+</annotation>
